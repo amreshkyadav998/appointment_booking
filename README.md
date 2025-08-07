@@ -264,9 +264,7 @@ curl -X GET <api-url>/api/all-bookings \
 
 ## 🧾 Submission Details
 
-| Item            | Link                  |
-| --------------- | --------------------- |
-| Frontend URL    | `<vercel-url>`        |
-| Backend API URL | `<render-url>`        |
-| Backend Repo    | `<backend-repo-url>`  |
-| Frontend Repo   | `<frontend-repo-url>` |
+| Item            | Link                                                |
+| --------------- | ----------------------------------------------------|
+| Frontend URL    |`https://appointment-booking-l3da.vercel.app/        |
+| Backend API URL | https://appointment-booking-etkc.onrender.com/      |
